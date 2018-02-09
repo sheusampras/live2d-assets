@@ -1,5 +1,5 @@
 #### 为你的网站加入响应式的2D模型
-
+### 改自[EYHN/hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d)
 ##### 在你的网站根目录下新建一个文件夹，命名为live2d  
 
 ##### 将你喜欢的模型所对应assets-*文件夹，及两个js文件放入你的live2d文件夹中  
